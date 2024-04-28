@@ -9,7 +9,7 @@ Welcome to my GitHub profile!
 - 📫 How to reach me: You can send me an email at contact@0x12371C.dev or follow me on Twitter @0x12371C.
 
 ## More on Me
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: wat
 - ⚡ Fun fact: I participated in a hackathon where our team built a decentralized voting system in less than 48 hours!
 
 Feel free to browse my repositories and don't hesitate to reach out if you're interested in collaborating on a project!
