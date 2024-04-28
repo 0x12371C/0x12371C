@@ -6,7 +6,7 @@ Welcome to my GitHub profile!
 - 👀 I’m interested in blockchain technology, smart contracts, and decentralized applications (dApps).
 - 🌱 I’m currently learning advanced Solidity techniques and exploring Layer 2 scaling solutions.
 - 💞️ I’m looking to collaborate on open-source projects focused on DeFi and blockchain interoperability.
-- 📫 How to reach me: You can send me an email at contact@0x12371C.dev or follow me on Twitter @0x12371C.
+- 📫 How to reach me: You can send me an email at contact@0x12371C.dev or follow me on Twitter @0xrelic22.
 
 ## More on Me
 - 😄 Pronouns: wat
