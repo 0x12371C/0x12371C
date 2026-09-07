@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="1000px" height="530px" font-size="16px">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="1080px" height="530px" font-size="16px">
 <style>
 @font-face {
 src: local('Consolas'), local('Consolas Bold');
@@ -13,55 +13,60 @@ size-adjust: 109%;
 .cc {fill: #8c959f;}
 text, tspan {white-space: pre;}
 </style>
-<rect width="1000px" height="530px" fill="#ffffff" rx="15"/>
-<text x="15" y="30" fill="#24292f" class="ascii">
-<tspan x="15" y="30">%%M*#=:~~-:...                       -=~~~~~</tspan>
-<tspan x="15" y="50">@@@+M@MW*******=-                    .====~~</tspan>
-<tspan x="15" y="70">%#NW@@@#+++*mW###N=:                  ======</tspan>
-<tspan x="15" y="90">%Mm#@@@N---=*#@@@@@M*-.               ++====</tspan>
-<tspan x="15" y="110">%%mM@@M:. .~W@@@@@@@@M+~-:.           :~=+++</tspan>
-<tspan x="15" y="130">@W+%@M: :~-*@@@@@@@@@@@%MMNm=-           :-~</tspan>
-<tspan x="15" y="150">@@%@#-.:::-W@@@@@@@@@%MNmmNNM#+  .:         </tspan>
-<tspan x="15" y="170">@%%N-.~-::~N@@@@@@@@@@M++*~~~+W* .=.        </tspan>
-<tspan x="15" y="190">mN=:::~::~-+%@@@@@@@@@@@W~..:*M#mNW+        </tspan>
-<tspan x="15" y="210">*- .::::=~:=W%@@@@@@@@@@@m~*N%@@@N+:        </tspan>
-<tspan x="15" y="230">.   ...-::-+m#@@@@@@@@@@@@%%#%@@N.          </tspan>
-<tspan x="15" y="250">    .-:::~+++W%@@@@@@@@@@@@@@@@@W           </tspan>
-<tspan x="15" y="270">. :..:-~===~*mM@@@@@@@@@@%@@@@@@W=~:.       </tspan>
-<tspan x="15" y="290">...  .---~~=mmN%@@@@@@@%#@%@@@@@W***+==~---~</tspan>
-<tspan x="15" y="310">     ..:-~====mW%@@@@@%%WMWm*@@@M***********</tspan>
-<tspan x="15" y="330">       :-~-:-~=N#Mm+-~+-: :++WMWm***m*******</tspan>
-<tspan x="15" y="350">-.      ..:::-~*~: .:=++~~  =****mmmmmm****m</tspan>
-<tspan x="15" y="370">+~.      .::-::. -N%#MWmWM=~*mmmmmmmmmmmmmmm</tspan>
-<tspan x="15" y="390">m+-.           .:+#MM#%%*+*mmmmmmmmmmmmmmmmm</tspan>
-<tspan x="15" y="410">MN=.          :..~~.::=NmmmmmmmmNNNmmmNNmmmm</tspan>
-<tspan x="15" y="430">@%N=:        .. :.::.-***mmmmmNNNNNNmmNNNNNm</tspan>
-<tspan x="15" y="450">@@@%m~~.        .:::.=mmmmmmmmNNNNmNNmmmNNNN</tspan>
-<tspan x="15" y="470">@@@%m+*+~-.      .  -*mmmmmmmmmNNNNNNNmmNNNN</tspan>
-<tspan x="15" y="490">@@#++******=-:..::~+mmmNNmmmNNNNNNNNNNNNNNNN</tspan>
-<tspan x="15" y="510">%W%++m+****mm***mmmmmNNNNNNNNNWWWWNNNWWWNNNN</tspan>
+<defs>
+  <clipPath id="asciiClip"><rect x="0" y="0" width="484" height="530"/></clipPath>
+</defs>
+<rect width="1080px" height="530px" fill="#ffffff" rx="15"/>
+<g clip-path="url(#asciiClip)">
+<text x="20" y="30" fill="#24292f" class="ascii">
+<tspan x="20" y="30">%%M*#=:~~-:...                       -</tspan>
+<tspan x="20" y="50">@@@+M@MW*******=-                    .</tspan>
+<tspan x="20" y="70">%#NW@@@#+++*mW###N=:                  </tspan>
+<tspan x="20" y="90">%Mm#@@@N---=*#@@@@@M*-.               </tspan>
+<tspan x="20" y="110">%%mM@@M:. .~W@@@@@@@@M+~-:.           </tspan>
+<tspan x="20" y="130">@W+%@M: :~-*@@@@@@@@@@@%MMNm=-        </tspan>
+<tspan x="20" y="150">@@%@#-.:::-W@@@@@@@@@%MNmmNNM#+  .:   </tspan>
+<tspan x="20" y="170">@%%N-.~-::~N@@@@@@@@@@M++*~~~+W* .=.  </tspan>
+<tspan x="20" y="190">mN=:::~::~-+%@@@@@@@@@@@W~..:*M#mNW+  </tspan>
+<tspan x="20" y="210">*- .::::=~:=W%@@@@@@@@@@@m~*N%@@@N+:  </tspan>
+<tspan x="20" y="230">.   ...-::-+m#@@@@@@@@@@@@%%#%@@N.    </tspan>
+<tspan x="20" y="250">    .-:::~+++W%@@@@@@@@@@@@@@@@@W     </tspan>
+<tspan x="20" y="270">. :..:-~===~*mM@@@@@@@@@@%@@@@@@W=~:. </tspan>
+<tspan x="20" y="290">...  .---~~=mmN%@@@@@@@%#@%@@@@@W***+=</tspan>
+<tspan x="20" y="310">     ..:-~====mW%@@@@@%%WMWm*@@@M*****</tspan>
+<tspan x="20" y="330">       :-~-:-~=N#Mm+-~+-: :++WMWm***m*</tspan>
+<tspan x="20" y="350">-.      ..:::-~*~: .:=++~~  =****mmmmm</tspan>
+<tspan x="20" y="370">+~.      .::-::. -N%#MWmWM=~*mmmmmmmmm</tspan>
+<tspan x="20" y="390">m+-.           .:+#MM#%%*+*mmmmmmmmmmm</tspan>
+<tspan x="20" y="410">MN=.          :..~~.::=NmmmmmmmmNNNmmm</tspan>
+<tspan x="20" y="430">@%N=:        .. :.::.-***mmmmmNNNNNNmm</tspan>
+<tspan x="20" y="450">@@@%m~~.        .:::.=mmmmmmmmNNNNmNNm</tspan>
+<tspan x="20" y="470">@@@%m+*+~-.      .  -*mmmmmmmmmNNNNNNN</tspan>
+<tspan x="20" y="490">@@#++******=-:..::~+mmmNNmmmNNNNNNNNNN</tspan>
+<tspan x="20" y="510">%W%++m+****mm***mmmmmNNNNNNNNNWWWWNNNW</tspan>
 </text>
-<text x="400" y="30" fill="#24292f">
-<tspan x="400" y="30">relic@tsl ———————————————————————————————————————</tspan>
-<tspan x="400" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> .............................. </tspan><tspan class="value">Windows 11 · Linux</tspan>
-<tspan x="400" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">building in public</tspan>
-<tspan x="400" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">The Secret Lab</tspan>
-<tspan x="400" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">on-chain browser / cash stack</tspan>
-<tspan x="400" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">Cursor · Rust · Foundry</tspan>
-<tspan x="400" y="150" class="cc">. </tspan>
-<tspan x="400" y="170" class="cc">. </tspan><tspan class="key">Chain</tspan>.<tspan class="key">Primary</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">Robinhood Chain · Avalanche</tspan>
-<tspan x="400" y="190" class="cc">. </tspan><tspan class="key">Chain</tspan>.<tspan class="key">Tokens</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">$VAPURR · $PUSD · gV/wgV</tspan>
-<tspan x="400" y="210" class="cc">. </tspan><tspan class="key">Stack</tspan>.<tspan class="key">Core</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">Lithe · Oliver · House · Fed</tspan>
-<tspan x="400" y="230" class="cc">. </tspan>
-<tspan x="400" y="250" class="cc">. </tspan><tspan class="key">Focus</tspan>.<tspan class="key">Product</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">vapurr desk · bonds · browse-earn</tspan>
-<tspan x="400" y="270" class="cc">. </tspan><tspan class="key">Focus</tspan>.<tspan class="key">Lab</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">veil.markets · zer0ID</tspan>
-<tspan x="400" y="310">- Contact</tspan> —————————————————————————————————————
-<tspan x="400" y="330" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">agent@thesecretlab.app</tspan>
-<tspan x="400" y="350" class="cc">. </tspan><tspan class="key">Web</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">thesecretlab.app</tspan>
-<tspan x="400" y="370" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">0x12371C</tspan>
-<tspan x="400" y="410">- GitHub Stats</tspan> —————————————————————————————————
-<tspan x="400" y="430" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">vapurr · veil · TSL</tspan>
-<tspan x="400" y="450" class="cc">. </tspan><tspan class="key">Shipping</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">on-chain browser, not a meme</tspan>
-<tspan x="400" y="470" class="cc">. </tspan><tspan class="key">Location</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">New York, NY</tspan>
+</g>
+<text x="500" y="30" fill="#24292f">
+<tspan x="500" y="30">relic@tsl ———————————————————————————————————</tspan>
+<tspan x="500" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">Windows 11 · Linux</tspan>
+<tspan x="500" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">building in public</tspan>
+<tspan x="500" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">The Secret Lab</tspan>
+<tspan x="500" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">on-chain browser / cash stack</tspan>
+<tspan x="500" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">Cursor · Rust · Foundry</tspan>
+<tspan x="500" y="150" class="cc">. </tspan>
+<tspan x="500" y="170" class="cc">. </tspan><tspan class="key">Chain</tspan>.<tspan class="key">Primary</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">Robinhood Chain · Avalanche</tspan>
+<tspan x="500" y="190" class="cc">. </tspan><tspan class="key">Chain</tspan>.<tspan class="key">Tokens</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">$VAPURR · $PUSD · gV/wgV</tspan>
+<tspan x="500" y="210" class="cc">. </tspan><tspan class="key">Stack</tspan>.<tspan class="key">Core</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">Lithe · Oliver · House · Fed</tspan>
+<tspan x="500" y="230" class="cc">. </tspan>
+<tspan x="500" y="250" class="cc">. </tspan><tspan class="key">Focus</tspan>.<tspan class="key">Product</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">vapurr desk · bonds · browse-earn</tspan>
+<tspan x="500" y="270" class="cc">. </tspan><tspan class="key">Focus</tspan>.<tspan class="key">Lab</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">veil.markets · zer0ID</tspan>
+<tspan x="500" y="310">- Contact</tspan> ———————————————————————————————
+<tspan x="500" y="330" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">agent@thesecretlab.app</tspan>
+<tspan x="500" y="350" class="cc">. </tspan><tspan class="key">Web</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">thesecretlab.app</tspan>
+<tspan x="500" y="370" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">0x12371C</tspan>
+<tspan x="500" y="410">- GitHub Stats</tspan> ————————————————————————————
+<tspan x="500" y="430" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">vapurr · veil · TSL</tspan>
+<tspan x="500" y="450" class="cc">. </tspan><tspan class="key">Shipping</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">on-chain browser, not a meme</tspan>
+<tspan x="500" y="470" class="cc">. </tspan><tspan class="key">Location</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">New York, NY</tspan>
 </text>
 </svg>
