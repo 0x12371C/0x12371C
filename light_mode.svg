@@ -49,24 +49,24 @@ text, tspan {white-space: pre;}
 <text x="500" y="30" fill="#24292f">
 <tspan x="500" y="30">relic@tsl ———————————————————————————————————</tspan>
 <tspan x="500" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">Windows 11 · Linux</tspan>
-<tspan x="500" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">building in public</tspan>
-<tspan x="500" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">The Secret Lab</tspan>
-<tspan x="500" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">on-chain browser / cash stack</tspan>
+<tspan x="500" y="70" class="cc">. </tspan><tspan class="key">Role</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">Founder, The Secret Lab</tspan>
+<tspan x="500" y="90" class="cc">. </tspan><tspan class="key">Focus</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">On-chain browser &amp; cash stack</tspan>
+<tspan x="500" y="110" class="cc">. </tspan><tspan class="key">Chains</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Robinhood Chain · Avalanche</tspan>
 <tspan x="500" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">Cursor · Rust · Foundry</tspan>
 <tspan x="500" y="150" class="cc">. </tspan>
-<tspan x="500" y="170" class="cc">. </tspan><tspan class="key">Chain</tspan>.<tspan class="key">Primary</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">Robinhood Chain · Avalanche</tspan>
-<tspan x="500" y="190" class="cc">. </tspan><tspan class="key">Chain</tspan>.<tspan class="key">Tokens</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">$VAPURR · $PUSD · gV/wgV</tspan>
+<tspan x="500" y="170" class="cc">. </tspan><tspan class="key">Product</tspan>.<tspan class="key">vapurr</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">Desktop browser for RHC</tspan>
+<tspan x="500" y="190" class="cc">. </tspan><tspan class="key">Product</tspan>.<tspan class="key">veil</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">veil.markets protocol stack</tspan>
 <tspan x="500" y="210" class="cc">. </tspan><tspan class="key">Stack</tspan>.<tspan class="key">Core</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">Lithe · Oliver · House · Fed</tspan>
 <tspan x="500" y="230" class="cc">. </tspan>
-<tspan x="500" y="250" class="cc">. </tspan><tspan class="key">Focus</tspan>.<tspan class="key">Product</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">vapurr desk · bonds · browse-earn</tspan>
-<tspan x="500" y="270" class="cc">. </tspan><tspan class="key">Focus</tspan>.<tspan class="key">Lab</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">veil.markets · zer0ID</tspan>
+<tspan x="500" y="250" class="cc">. </tspan><tspan class="key">Tokens</tspan>.<tspan class="key">Live</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">$VAPURR · $PUSD · gV/wgV</tspan>
+<tspan x="500" y="270" class="cc">. </tspan><tspan class="key">Identity</tspan>.<tspan class="key">zer0ID</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">KYC-bound browse-earn</tspan>
 <tspan x="500" y="310">- Contact</tspan> ———————————————————————————————
 <tspan x="500" y="330" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">agent@thesecretlab.app</tspan>
 <tspan x="500" y="350" class="cc">. </tspan><tspan class="key">Web</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">thesecretlab.app</tspan>
 <tspan x="500" y="370" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">0x12371C</tspan>
-<tspan x="500" y="410">- GitHub Stats</tspan> ————————————————————————————
-<tspan x="500" y="430" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">vapurr · veil · TSL</tspan>
-<tspan x="500" y="450" class="cc">. </tspan><tspan class="key">Shipping</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">on-chain browser, not a meme</tspan>
-<tspan x="500" y="470" class="cc">. </tspan><tspan class="key">Location</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">New York, NY</tspan>
+<tspan x="500" y="410">- Location</tspan> ———————————————————————————————
+<tspan x="500" y="430" class="cc">. </tspan><tspan class="key">City</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">New York, NY</tspan>
+<tspan x="500" y="450" class="cc">. </tspan><tspan class="key">Org</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">thesecretlab</tspan>
+<tspan x="500" y="470" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">vapurr · veil · TSL</tspan>
 </text>
 </svg>
