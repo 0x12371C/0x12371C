@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="530px" font-size="16px">
+<style>
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+.key {fill: #ffa657;}
+.value {fill: #a5d6ff;}
+.addColor {fill: #3fb950;}
+.delColor {fill: #f85149;}
+.cc {fill: #616e7f;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="985px" height="530px" fill="#161b22" rx="15"/>
+<text x="15" y="30" fill="#c9d1d9" class="ascii">
+<tspan x="15" y="30">WN0D5gVx{1r)|++:-                    `{!?I}*rr</tspan>
+<tspan x="15" y="50">MQQ0hhQD&amp;CTCw356#[\_                  \t[]!I*{</tspan>
+<tspan x="15" y="70">RB$pq0QQHu!!oJg$HBOqt\'               +o1[]!!I</tspan>
+<tspan x="15" y="90">0NDVh0QDC/_:lfBQQQQQNYCc/:.           =!teet1]</tspan>
+<tspan x="15" y="110">QMKTEQN#-_||?&amp;QQQQQQQQQKYhFz[i;        .,\l!ae</tspan>
+<tspan x="15" y="130">RQQKDK#,^/)&gt;20QQQQQQQQ0&amp;S5p6g4g*. ;;        '|</tspan>
+<tspan x="15" y="150">KRNNV]:)i=+&gt;yRQQQQQQQQ0ATnn{lIJq1`)!=         </tspan>
+<tspan x="15" y="170">Lw2a==:%//l\?AQQQQQQQQQQQZl:\{6&amp;&amp;dV6r         </tspan>
+<tspan x="15" y="190">Cj&lt;  `,;;x&gt;/*qDQQQQQQQQQQRVyqg&amp;WNE*/.         </tspan>
+<tspan x="15" y="210">e^   ._^/^/ljnZ0QQQQQQQQQQQQQ000Mn            </tspan>
+<tspan x="15" y="230">/'````="&lt;cs[I1m8QQQQQQQQQQ00QQQQQyl|'.        </tspan>
+<tspan x="15" y="250">_-_-` '=&lt;&lt;r*{yFhBQQQQQQQRKNN0QQQQ6nnz1*lv&gt;&lt;&gt;vc</tspan>
+<tspan x="15" y="270">,     `-=)c{}?12XRQQQNND8hPXpqQQQST#TnT#J##J#T</tspan>
+<tspan x="15" y="290">a\      '=i)=\%*5Zhj*)ro\; =?z4XqJCCCwCJ#nTT#C</tspan>
+<tspan x="15" y="310">67)_      _^^/&gt;%!&gt;,\I[CCCwn/.oT#Jwy23yfwCJJCwf</tspan>
+<tspan x="15" y="330">Gpj%`     `'';_. -*KQRRHPfCLLCwy3233yy3353ffyy</tspan>
+<tspan x="15" y="350">Dkma"          `._rLr{[fGCCyywy325523y25533332</tspan>
+<tspan x="15" y="370">QQWPe&lt;`        ` '=/;.\zJCyyyy2F66pF525F555552</tspan>
+<tspan x="15" y="390">QQQ0UV[r).       `'+;_!3wwfy325F6pF5FF525FFF53</tspan>
+<tspan x="15" y="410">QQQQ$pLuut{\_       :lCy2233223F66ppmmp5Fmqq65</tspan>
+<tspan x="15" y="430">QQQBFtJnLn#Cj[s%%x{t#222FFFFpp6mqqmmmmmmqqq6F5</tspan>
+<tspan x="15" y="450">QUFqTre#nuT#JCCwy32525FFFp6mqqSggggSSghgSqSSqp</tspan>
+<tspan x="15" y="470">YGmT[7ra35jJ#CCCf35FFpmm6m66mqggggSSgghhggSgqp</tspan>
+<tspan x="15" y="490">2gYYgF5{oEm553ffy35p66mmmppmggggggqqSgSggSggSm</tspan>
+<tspan x="15" y="510">                                              </tspan>
+</text>
+<text x="390" y="30" fill="#c9d1d9">
+<tspan x="390" y="30">relic@tsl -———————————————————————————————————————————-—-</tspan>
+<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ............................... </tspan><tspan class="value">Windows 11 · Robinhood Chain</tspan>
+<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">building in public</tspan>
+<tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">The Secret Lab</tspan>
+<tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">on-chain browser / cash stack</tspan>
+<tspan x="390" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> .............................. </tspan><tspan class="value">Cursor · Rust · Foundry</tspan>
+<tspan x="390" y="150" class="cc">. </tspan>
+<tspan x="390" y="170" class="cc">. </tspan><tspan class="key">Stack</tspan>.<tspan class="key">Chain</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">Robinhood Chain · EVM</tspan>
+<tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Stack</tspan>.<tspan class="key">Tokens</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">$VAPURR · $PUSD · gV/wgV</tspan>
+<tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Stack</tspan>.<tspan class="key">Core</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">Lithe · Oliver · House · Fed</tspan>
+<tspan x="390" y="230" class="cc">. </tspan>
+<tspan x="390" y="250" class="cc">. </tspan><tspan class="key">Focus</tspan>.<tspan class="key">Product</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">vapurr desk · bonds · browse-earn</tspan>
+<tspan x="390" y="270" class="cc">. </tspan><tspan class="key">Focus</tspan>.<tspan class="key">Lab</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">veil.markets · zer0ID</tspan>
+<tspan x="390" y="310">- Contact</tspan> -——————————————————————————————————————————————-—-
+<tspan x="390" y="330" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">agent@thesecretlab.app</tspan>
+<tspan x="390" y="350" class="cc">. </tspan><tspan class="key">Web</tspan>:<tspan class="cc"> .............................. </tspan><tspan class="value">thesecretlab.app</tspan>
+<tspan x="390" y="370" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">0x12371C</tspan>
+<tspan x="390" y="410">- GitHub Stats</tspan> -—————————————————————————————————————————-—-
+<tspan x="390" y="430" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">vapurr · veil · TSL</tspan>
+<tspan x="390" y="450" class="cc">. </tspan><tspan class="key">Shipping</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">on-chain browser, not a meme</tspan>
+<tspan x="390" y="470" class="cc">. </tspan><tspan class="key">Location</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">New York, NY</tspan>
+</text>
+</svg>
